@@ -2,7 +2,7 @@
 
 한국판 『대난투 스매시브라더스 for Nintendo 3DS』를 위한 비공식 팬 패치입니다. 한국판에 영어로 남아 있던 부분을 한국어로 바꾸고, 한국판에서 막혀 있던 「Wii U와 연결」 메뉴를 되살립니다.
 
-**최신: 2026-11-25판** · [릴리스 다운로드](https://github.com/auseong325-design/ssb-for-3ds-korean-patch/releases/latest)
+**최신: 2026-11-25판** · [릴리스 다운로드](https://github.com/auseong325-design/ssb-for-3ds-korean-patch/releases/latest) · [패치 로그(이전 판과 달라진 점)](패치%20로그.md)
 
 | | |
 |:---:|:---:|
